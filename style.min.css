@@ -101,8 +101,5 @@ nav > a:hover{
         width: 100%;
         padding: 10px;
     }
-    h1,h2,h3 {
-        text-align: center;
-    }
 }
 /* QUERIES ...END */
