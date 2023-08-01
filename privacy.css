@@ -1,0 +1,29 @@
+.policy{
+    display: flex;
+    flex-direction: column;
+}
+.contact{
+    color: #1B0;  
+    padding: 4px 6px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.contact:hover{
+    color: white;
+    background-color: #1B0;
+}
+.contact:active{
+    color: blueviolet;
+}
+.okey{
+    margin-bottom: 2px;
+    display: flex;
+    gap: 10px;
+}
+.okey > a{
+    color: rgb(65, 99, 112);
+}
+.okey > a:hover{
+    color: blueviolet;
+    border-radius: 50%;
+}
